@@ -167,15 +167,16 @@ The assistant provides the available installment information.
 
 ---
 
-## 📌 Portfolio Project
+## 📌 Portfolio Implementation
 
 This project demonstrates a practical implementation of an **AI-powered e-commerce customer support system** where customers can interact with a business through WhatsApp and receive knowledge-grounded answers automatically.
 
 A sanitized n8n workflow file is included for portfolio demonstration.
 
+👉 [View / Download Workflow JSON](WhatsApp_RAG_AI_Assistant.json)
+
 For custom implementation or commercial use, please <strong>Contact Us:</strong> <sub><a href="https://wa.me/923002120566"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat-square" alt="WhatsApp"></a></sub>
 
-👉 [View / Download Workflow JSON](WhatsApp_RAG_AI_Assistant.json)
 
 
 
