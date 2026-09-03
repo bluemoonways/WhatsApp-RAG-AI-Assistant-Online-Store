@@ -173,7 +173,7 @@ This project demonstrates a practical implementation of an **AI-powered e-commer
 
 A sanitized n8n workflow file is included for portfolio demonstration.
 
-For custom implementation or commercial use, please <strong>Contact Us:</strong> <sub><a href="https://wa.me/923111700076"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat-square" alt="WhatsApp"></a></sub>
+For custom implementation or commercial use, please <strong>Contact Us:</strong> <sub><a href="https://wa.me/923002120566"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat-square" alt="WhatsApp"></a></sub>
 
 👉 [View / Download Workflow JSON](WhatsApp_RAG_AI_Assistant.json)
 
