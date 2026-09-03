@@ -37,7 +37,7 @@ When a customer sends a WhatsApp message, the AI Agent searches the knowledge ba
 
 ---
 
-## 📸 Workflow
+## 📸 Workflow chart
 
 ![WhatsApp RAG AI Assistant Workflow](screenshots/WhatsApp-RAG-AI-Assistant-flowchart.png)
 
