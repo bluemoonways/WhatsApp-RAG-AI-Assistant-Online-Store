@@ -37,46 +37,9 @@ When a customer sends a WhatsApp message, the AI Agent searches the knowledge ba
 
 ---
 
-## 🏗️ Workflow Architecture
+## 📸 Workflow
 
-```text
-Store Product Catalog & Policies
-              │
-              ▼
-        PDF Document
-              │
-              ▼
-       Extract Document
-              │
-              ▼
-    Google Gemini Embeddings
-              │
-              ▼
-       Pinecone Vector DB
-              │
-              │
-     Customer WhatsApp Query
-              │
-              ▼
-        WhatsApp Trigger
-              │
-              ▼
-          AI Agent
-          /      \
-         /        \
-   RAG Search    Memory
-        │
-        ▼
-   Relevant Context
-        │
-        ▼
-   Google Gemini
-        │
-        ▼
-   WhatsApp Response
-```
-
----
+![WhatsApp RAG AI Assistant Workflow](screenshots/WhatsApp-RAG-AI-Assistant-flowchart.png)
 
 ## 🔄 How It Works
 
@@ -187,19 +150,6 @@ The assistant provides the available installment information.
 
 ---
 
-## 📂 Project Structure
-
-```text
-WhatsApp-RAG-Online-Store/
-│
-├── workflow.json
-├── README.md
-└── screenshots/
-    └── workflow.png
-```
-
----
-
 ## 🔐 Security Note
 
 The workflow shared in this repository should contain **sanitized credentials**.
@@ -231,7 +181,7 @@ Credentials should be configured securely inside n8n after importing the workflo
 
 This project demonstrates a practical implementation of an **AI-powered e-commerce customer support system** where customers can interact with a business through WhatsApp and receive knowledge-grounded answers automatically.
 
-**Built with:** n8n + Google Gemini + Pinecone + WhatsApp
+
 
 #AI #AIAutomation #n8n #RAG #GoogleGemini #Pinecone #WhatsAppAutomation #LLM #AIEngineering #Automation #bluemoonways
 
