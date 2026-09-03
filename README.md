@@ -150,16 +150,6 @@ The assistant provides the available installment information.
 
 ---
 
-## 🔐 Security Note
-
-The workflow shared in this repository should contain **sanitized credentials**.
-
-API keys, OAuth credentials, WhatsApp credentials, Pinecone credentials, and other private configuration values should never be committed to GitHub.
-
-Credentials should be configured securely inside n8n after importing the workflow.
-
----
-
 ## 🎯 Skills Demonstrated
 
 * AI Automation
